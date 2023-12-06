@@ -12,3 +12,9 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# vscode debug file
+launch.json
+
+# advent of code input file
+input.txt
